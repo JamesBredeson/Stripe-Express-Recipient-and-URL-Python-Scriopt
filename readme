@@ -1,0 +1,8 @@
+Install Python 3.XXX
+Install Pip
+Pip3 install stripe
+replace API, email and other info to your info
+run the fole in terminal python3 stripetest.py
+   this create the account
+Go to your stripe terminal and copu the user ID and paste it in line 5 of link.py
+  run python3 link.py to get the link to email your customer
