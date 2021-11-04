@@ -3,8 +3,8 @@ stripe.api_key = "sk_live_51GzsAWCZrJ5XDKMLIIm9La6llS6vb4cQ16HrPaq0MSYOwLZC8R4UU
 
 account_links = stripe.AccountLink.create(
   account='acct_1JqTeZ2RoRUZKxEC',
-  refresh_url='https://mox-technologies.com/reauth',
-  return_url='https://mox-technologies.com.com/return',
+  refresh_url='https://youremai.com/reauth',
+  return_url='https://youremail.com/return',
   type='account_onboarding',
 )
 
